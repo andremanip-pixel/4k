@@ -1,0 +1,16 @@
+filename = 'marbledsarsenal-1.20.1forge-2.3.0.2.jar'
+name = "Marbled's Arsenal (Legacy)"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '70395f3816a9096ad821fa284a2a850781fe6f61'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6524315
+project-id = 776273

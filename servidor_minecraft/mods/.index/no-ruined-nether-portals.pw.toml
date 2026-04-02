@@ -1,0 +1,16 @@
+filename = 'no-ruined-nether-portals-1.0.jar'
+name = 'No Ruined Nether Portals'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3522993ecdb894089938c4bfd1da6dbb35138f4c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5287088
+project-id = 1008276

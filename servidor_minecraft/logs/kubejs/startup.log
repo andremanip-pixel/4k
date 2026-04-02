@@ -1,0 +1,10 @@
+[22:36:25] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:36:25] [INIT] Loaded plugins:
+[22:36:25] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:36:25] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[22:36:25] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:36:25] [INFO] cwstartuptweaks.js#1: CW Tweaks Startup scripts successfully loaded.
+[22:36:25] [INFO] Loaded script startup_scripts:cwstartuptweaks.js in 0.057 s
+[22:36:25] [INFO] Loaded script startup_scripts:matt's_stims_startup.js in 0.013 s
+[22:36:25] [INFO] Loaded script startup_scripts:disabledOres.js in 0.003 s
+[22:36:25] [INFO] Loaded 3/3 KubeJS startup scripts in 0.638 s with 0 errors and 0 warnings

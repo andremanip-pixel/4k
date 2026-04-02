@@ -1,0 +1,16 @@
+filename = 'automobility-0.4.2+1.20.1-forge.jar'
+name = 'Automobility'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '007f228d2d728ec0ec79ab405d09b05a4ee7bed6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4613497
+project-id = 658286

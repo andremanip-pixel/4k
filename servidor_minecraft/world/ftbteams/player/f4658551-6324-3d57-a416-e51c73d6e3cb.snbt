@@ -1,0 +1,17 @@
+{
+	id: "f4658551-6324-3d57-a416-e51c73d6e3cb"
+	type: "player"
+	player_name: "ArtistTest"
+	ranks: {
+		f4658551-6324-3d57-a416-e51c73d6e3cb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ArtistTest"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59F0FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

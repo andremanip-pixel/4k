@@ -1,0 +1,16 @@
+filename = 'nobz-1.2.jar'
+name = 'No Baby Zombies'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '06c48236c2191c101e22d4243598e08df977508a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6205182
+project-id = 959336

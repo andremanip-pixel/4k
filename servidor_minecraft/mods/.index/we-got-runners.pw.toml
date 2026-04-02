@@ -1,0 +1,16 @@
+filename = 'wegotrunnners-0.7.1.1.20.1[SPANISH TRANSLATION UPDATE].jar'
+name = 'We Got Runners!'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f4c30ae5060c407d514bd342a72b8d8be00db432'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5509865
+project-id = 531381

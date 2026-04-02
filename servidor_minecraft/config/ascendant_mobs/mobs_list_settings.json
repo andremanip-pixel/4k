@@ -1,0 +1,17 @@
+{
+  "banned": [
+    "minecraft:dolphin",
+    "minecraft:bat",
+    "minecraft:pufferfish",
+    "minecraft:salmon",
+    "minecraft:cod",
+    "minecraft:villager",
+    "minecraft:iron_golem",
+    "minecraft:snow_golem"
+  ],
+  "death_messages": true,
+  "locked_mobs": [],
+  "can_be_ascendant": [
+    "minecraft:zombie"
+  ]
+}

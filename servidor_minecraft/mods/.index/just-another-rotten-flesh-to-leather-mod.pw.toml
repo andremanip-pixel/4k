@@ -1,0 +1,16 @@
+filename = 'JRFTL-1.20.1-1.6.0.jar'
+name = 'Just Another Rotten Flesh to Leather Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd59e4ad527b59617aec6b49630c5b4b8cda385ad'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4594475
+project-id = 247136

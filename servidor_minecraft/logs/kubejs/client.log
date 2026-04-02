@@ -1,0 +1,12 @@
+[22:12:54] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:12:54] [INIT] Loaded plugins:
+[22:12:54] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:12:54] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[22:12:54] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:12:54] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:12:54] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:12:54] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[22:12:54] [INFO] renaming.js#5: Loading client names
+[22:12:54] [INFO] Loaded script client_scripts:renaming.js in 0.002 s
+[22:12:54] [INFO] Loaded 1/1 KubeJS client scripts in 0.017 s with 0 errors and 0 warnings
+[22:13:01] [INFO] Client resource reload complete!

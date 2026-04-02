@@ -1,0 +1,16 @@
+filename = 'ScalingMobs-2.3.jar'
+name = 'Scaling Mob Difficulty'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '10fdd120f01e82930b866f75364153bf26161941'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6493176
+project-id = 506521

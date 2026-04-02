@@ -1,0 +1,16 @@
+filename = 'justzoom_forge_2.0.0_MC_1.20.1.jar'
+name = 'Just Zoom'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e9a3d6bd34861c066b49800ab87d116d6c4dabcf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5402653
+project-id = 561885

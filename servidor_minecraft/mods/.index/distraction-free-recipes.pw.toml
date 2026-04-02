@@ -1,0 +1,16 @@
+filename = 'distraction_free_recipes-forge-1.2.1-1.20.1.jar'
+name = 'Distraction Free Recipes (EMI / REI / JEI)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8cb739a7b1707d535b29a01e8b7d45e31d2874c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6110178
+project-id = 1167848

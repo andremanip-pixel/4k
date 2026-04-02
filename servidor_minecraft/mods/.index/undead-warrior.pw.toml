@@ -1,0 +1,16 @@
+filename = 'warrior-1.20.1-2.jar'
+name = 'Undead Warrior'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0781089ef976791c74f95cf2f483b151d5796834'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5753792
+project-id = 934338

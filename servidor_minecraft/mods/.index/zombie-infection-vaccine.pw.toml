@@ -1,0 +1,16 @@
+filename = 'cure-2.0.2-forge-1.20.1.jar'
+name = 'Zombie Infection Vaccine'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bd383811414a5f161c2b09febff2a8da99679b66'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5547475
+project-id = 887582

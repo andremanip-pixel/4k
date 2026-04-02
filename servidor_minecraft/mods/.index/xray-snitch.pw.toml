@@ -1,0 +1,16 @@
+filename = 'xray_snitch-1.1.jar'
+name = 'Xray Snitch'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9bb0b5b1a0873ada948010a74eb93913fb62c6ce'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5162652
+project-id = 975619

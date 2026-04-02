@@ -1,0 +1,16 @@
+filename = 'letsdo-bloomingnature-forge-1.0.12.jar'
+name = "[Let's Do] BloomingNature"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '360727042ae8579f5cdc95650953b39ea30fabfa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6172650
+project-id = 962885

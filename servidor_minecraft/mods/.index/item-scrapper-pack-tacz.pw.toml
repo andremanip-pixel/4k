@@ -1,0 +1,16 @@
+filename = 'Item Scrapper Pack - TACZ.jar'
+name = 'Item Scrapper Pack - TACZ'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3958b8fcbe326c4cb394d92e331b61f56d4f9950'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6658746
+project-id = 1288141

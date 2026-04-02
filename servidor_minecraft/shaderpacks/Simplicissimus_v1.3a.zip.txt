@@ -1,0 +1,2 @@
+#Wed Dec 18 10:56:59 CST 2024
+fogIntensity=0

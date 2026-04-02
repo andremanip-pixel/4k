@@ -1,0 +1,16 @@
+filename = 'improved_village_placement_1.0.0.jar'
+name = 'Improved Village Placement'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.21', '1.21.1', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '46d1f5091c9fcf8122587c5388067826a0b125ea'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6070620
+project-id = 1175325

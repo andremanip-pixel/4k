@@ -1,0 +1,7 @@
+{
+  "dimensions": [
+    "[min]0[minEnd][max]75[maxEnd]minecraft:overworld",
+    "[min]50[minEnd][max]125[maxEnd]the_deep_void:deep_void",
+    "[min]100[minEnd][max]200[maxEnd]the_deeper_void:void_dimension"
+  ]
+}

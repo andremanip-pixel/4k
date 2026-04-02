@@ -1,0 +1,17 @@
+{
+	id: "cee8ac8f-0021-31d1-9e49-671eb2cf9bd8"
+	type: "player"
+	player_name: "Sodio"
+	ranks: {
+		cee8ac8f-0021-31d1-9e49-671eb2cf9bd8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sodio"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D259FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

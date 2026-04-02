@@ -1,0 +1,16 @@
+filename = '[CW ONLY] jeffs_cursed_walking_structures-1.0.8-forge-1.20.1 [Bug Fix].jar'
+name = "Jeff's Cursed Walking Structures"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f353d984272c419707769476ece07c810f4bf22b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6565256
+project-id = 1140880

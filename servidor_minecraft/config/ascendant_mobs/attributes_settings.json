@@ -1,0 +1,9 @@
+{
+  "attributes_list": [
+    "[attribute]minecraft:generic.max_health[attributeEnd][value]2.5[valueEnd][max]250[maxEnd]",
+    "[attribute]minecraft:generic.movement_speed[attributeEnd][value]0.002[valueEnd][max]0.18[maxEnd]",
+    "[attribute]minecraft:generic.armor[attributeEnd][value]0.15[valueEnd][max]15[maxEnd]",
+    "[attribute]minecraft:generic.attack_damage[attributeEnd][value]1.2[valueEnd][max]120[maxEnd]",
+    "[attribute]minecraft:generic.knockback_resistance[attributeEnd][value]0.01[valueEnd][max]0.8[maxEnd]"
+  ]
+}

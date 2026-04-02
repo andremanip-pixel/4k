@@ -1,0 +1,16 @@
+filename = 'pointblank-forge-1.20.1-1.9.6.jar'
+name = "Vic's Point Blank"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '393c622efbf3641c0ab0f7df17f9de2f49de0bd8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6012485
+project-id = 961053

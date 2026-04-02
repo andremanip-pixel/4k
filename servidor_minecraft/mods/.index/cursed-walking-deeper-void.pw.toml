@@ -1,0 +1,16 @@
+filename = 'the_deeper_void-1.0.5-forge-1.20.1 [BUG FIX].jar'
+name = 'Deeper Void - CW'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '27fdb74a089a8bbd7ed19ceeaa615bc19ac5a052'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6559582
+project-id = 1196357

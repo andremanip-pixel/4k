@@ -1,0 +1,16 @@
+filename = 'Better Mob Food - Version 1.0.1 (Beta).jar'
+name = 'Better Mob Food'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '1114279419c2d6ebab0ed37a2fb670da160a1abc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5419434
+project-id = 846072

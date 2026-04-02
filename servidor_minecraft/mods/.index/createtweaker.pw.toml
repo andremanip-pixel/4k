@@ -1,0 +1,16 @@
+filename = 'CreateTweaker-forge-1.20.1-4.0.13.jar'
+name = 'CreateTweaker'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '792ffb40d3927ad040d28d3c8c10eb3e5ca38c4a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5832764
+project-id = 437717

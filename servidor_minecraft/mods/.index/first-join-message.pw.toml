@@ -1,0 +1,16 @@
+filename = 'firstjoinmessage-1.20.1-3.8.jar'
+name = 'First Join Message'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5aa7e3484b74f30fee784e1386b4f9d7cd366d2f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6505541
+project-id = 390733

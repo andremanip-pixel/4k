@@ -1,0 +1,16 @@
+filename = 'cw_additions-1.1.6b-RELEASE-1.0-forge-1.20.1.jar'
+name = 'CW Gun Expansion'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '943bac6eaf5d99de18c9d17c36021b066ef86266'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5806696
+project-id = 693589

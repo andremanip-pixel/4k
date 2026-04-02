@@ -1,0 +1,16 @@
+filename = 'EpicSiegeMod-14.171.jar'
+name = 'Epic Siege Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '8167b3f55184328d72172333e6ac7f27a62aec0e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6028079
+project-id = 229449

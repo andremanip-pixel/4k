@@ -1,0 +1,17 @@
+{
+	id: "8708e787-adb1-33a6-94c1-d4c563ae7273"
+	type: "player"
+	player_name: "PatoManip"
+	ranks: {
+		8708e787-adb1-33a6-94c1-d4c563ae7273: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PatoManip"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B7FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

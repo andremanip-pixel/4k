@@ -1,0 +1,16 @@
+filename = 'TaxCursedPainter+M.1.20.1+ForM.1.0.0.jar'
+name = "Tax' Cursed Painter"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '837ec2623d376ca5b5732b4a94d57701f0cabad8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6667695
+project-id = 1289456

@@ -1,0 +1,12 @@
+{
+  "ascendant_loot_table": "minecraft:chests/end_city_treasure",
+  "ascendant_effects_min_level": 30.0,
+  "ascendant_effects_chance": 1.5,
+  "random_effects": true,
+  "use_legacy_hud": false,
+  "hide_hud_for": [
+    "minecraft:bat",
+    "minecraft:villager",
+    "minecraft:iron_golem"
+  ]
+}

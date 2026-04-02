@@ -1,0 +1,16 @@
+filename = 'Keerdm Zombie Apocalypse Essentials (Vics) 1.41.jar'
+name = "Keerdm's Zombie Apocalypse Essentials"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '94d9b56e38e87ded24dc36cd15889341adae3d72'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6565639
+project-id = 1061079
